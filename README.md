@@ -1,8 +1,8 @@
 
 # Hi, I am Jihad 👋
-<img align="right" src="https://i.pinimg.com/originals/3a/06/54/3a0654db34d42585b73eb7bd5cdf4174.gif" />
+<img align="right" src="https://www.hopkins.kyschools.us/cms/lib/KY02204223/Centricity/Domain/570/blue_boy_typing_nothought.gif" />
 
-I am a cub in the tech and developer world. Eager to learn and grow. I love coding, learning and reading books.
+I am a data enthusiast, a python developer and an aspiring data scientist. Eager to learn and grow. I love coding, learning and reading books.
 
 ### Here are some of my favourite projects: 
 [Finance_Project](https://github.com/Jihad-R/Finance_Exploratory_Analysis_Project/blob/master/03-Finance%20Project.ipynb)
@@ -13,6 +13,4 @@ I am a cub in the tech and developer world. Eager to learn and grow. I love codi
 
 [Python-Document-Translator](https://github.com/Jihad-R/Python-Document-Translator-/blob/master/Translator.py) 
 
-#### Feel free and explore my profile. See ya ✌️ 
-![alt text](https://cdna.artstation.com/p/assets/images/images/019/221/596/original/hibban-mohammed-ezgif-com-gif-maker.gif?1562575662)
-
+#### Feel free and explore my profile.
