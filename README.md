@@ -14,4 +14,4 @@ I am a data enthusiast, a python developer and an aspiring data scientist. Eager
 [Python-Document-Translator](https://github.com/Jihad-R/Python-Document-Translator-/blob/master/Translator.py) 
 
 [Face Detection using MTCNN](https://github.com/Jihad-R/Face-Detection-Using-Deep-Learning-MTCNN-)
-#### Feel free and explore my profile.
+#### Feel free and explore my profile...
