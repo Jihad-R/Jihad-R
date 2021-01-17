@@ -6,7 +6,7 @@
 
 * I enjoy long walks and good company. I love to work with people and build meaningful connections. Also a big fan of Hawain Shirts 😁. 
 
-* My Goal is to make a positive impact in the tech world and help my community and the people around me. 
+* My Goal is to make a positive impact in the tech world and help my community. 
 
 ## Welcome to my GITHUB PROFILE
 
