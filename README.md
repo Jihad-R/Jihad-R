@@ -1,8 +1,14 @@
 
-# Hi, I am Jihad 👋
-<img align="right" height="auto" width="450px" src="https://www.hopkins.kyschools.us/cms/lib/KY02204223/Centricity/Domain/570/blue_boy_typing_nothought.gif" />
+# Hi, I am Jihad aka Izzy 👋
+<img align="right" height="auto" width="450px" src="https://giffiles.alphacoders.com/174/174807.gif" />
 
-I am a data enthusiast, a python developer and an aspiring data scientist. Eager to learn and grow. I love coding, learning and reading books.
+* I am a data enthusiast, a python developer and an aspiring data scientist. Eager to learn and grow. I love coding, learning and reading books.
+
+* I enjoy long walks and good company. I love to work with people and build meaningful connections. Also a big fan of Hawain Shirts 😁. 
+
+* My Goal is to make a positive impact in the tech world to help my community and the people around me. 
+
+## Welcome to my GITHUB PROFILE
 
 ### Here are some of my favourite projects: 
 [Finance_Project](https://github.com/Jihad-R/Finance_Exploratory_Analysis_Project/blob/master/03-Finance%20Project.ipynb)
