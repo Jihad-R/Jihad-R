@@ -2,12 +2,9 @@
 # Hi, I am Jihad 👋
 <img align="right" height="auto" width="450px" src="https://giffiles.alphacoders.com/174/174807.gif" />
 
-* I enjoy long walks and good company. I love to work with people and build meaningful connections. Also a big fan of Hawain Shirts 😁. 
+* I enjoy long walks and good company. I love nature <🌳> .Also a big fan of Hawain Shirts 😁. 
 * I like Software Engineering and Data Science
 * Currently trying to learn express js and django 
-
-🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳🌳
-
 ## Welcome to my GITHUB PROFILE
 
 ### Here are some of my favourite projects: 
