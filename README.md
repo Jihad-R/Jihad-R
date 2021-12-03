@@ -1,5 +1,5 @@
 
-# Hi, I am Jihad aka Izzy 👋
+# Hi, I am Jihad 👋
 <img align="right" height="auto" width="450px" src="https://giffiles.alphacoders.com/174/174807.gif" />
 
 * I am a data enthusiast, a python developer and an aspiring data scientist. Eager to learn and grow. I love coding, learning and reading books.
