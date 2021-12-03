@@ -2,7 +2,7 @@
 # Hi, I am Jihad 👋
 <img align="right" height="auto" width="450px" src="https://giffiles.alphacoders.com/174/174807.gif" />
 
-* I enjoy long walks and good company. I love nature <🌳> .Also a big fan of Hawain Shirts 😁. 
+* I enjoy long walks and good company. I love nature 🌳 .Also a big fan of Hawain Shirts 😁. 
 * I like Software Engineering and Data Science
 * Currently trying to learn express js and django 
 ## Welcome to my GITHUB PROFILE
@@ -17,4 +17,4 @@
 [Python-Document-Translator](https://github.com/Jihad-R/Python-Document-Translator-/blob/master/Translator.py) 
 
 [Face Detection using MTCNN](https://github.com/Jihad-R/Face-Detection-Using-Deep-Learning-MTCNN-)
-#### Feel free and explore my profile.
+#### Feel free to explore my profile.
