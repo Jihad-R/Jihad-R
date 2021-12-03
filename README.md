@@ -2,12 +2,10 @@
 # Hi, I am Jihad 👋
 <img align="right" height="auto" width="450px" src="https://giffiles.alphacoders.com/174/174807.gif" />
 
-* I am a data enthusiast, a python developer and an aspiring data scientist. Eager to learn and grow. I love coding, learning and reading books.
-
 * I enjoy long walks and good company. I love to work with people and build meaningful connections. Also a big fan of Hawain Shirts 😁. 
-
-* My Goal is to make a positive impact in the tech world and help my community. 
-
+* I like Software Engineering and Data Science
+* Currently trying to learn express js and django 
+* 
 ## Welcome to my GITHUB PROFILE
 
 ### Here are some of my favourite projects: 
