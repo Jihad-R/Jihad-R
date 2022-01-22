@@ -1,10 +1,10 @@
 
 # Hi, I am Jihad 👋
-<img align="right" height="auto" width="450px" src="https://i.gifer.com/3YDc.gif" />
 
-* I enjoy long walks and good company. I love nature 🌳 .Also a big fan of Hawain Shirts 😁. 
+* I enjoy long walks in nature 🌳
 * I like Software Engineering and Data Science
-* Currently trying to learn express js and django 
+* Currently trying to learn express js and Angular
+ 
 ## Welcome to my GITHUB PROFILE
 
 ### Here are some of my favourite projects: 
