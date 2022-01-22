@@ -1,6 +1,6 @@
 
 # Hi, I am Jihad 👋
-<img align="right" height="auto" width="450px" src="https://giffiles.alphacoders.com/174/174807.gif" />
+<img align="right" height="auto" width="450px" src="https://i.gifer.com/3YDc.gif" />
 
 * I enjoy long walks and good company. I love nature 🌳 .Also a big fan of Hawain Shirts 😁. 
 * I like Software Engineering and Data Science
