@@ -1,5 +1,5 @@
 
-# Hi, I am Jihad 👋
+# Hi, I am Jo 👋
 
 * I enjoy long walks in nature 🌳
 * I like Software Engineering and Data Science
