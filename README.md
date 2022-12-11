@@ -3,7 +3,7 @@
 
 * I enjoy long walks in nature 🌳
 * I like Software Engineering and Data Science
-* Currently working personal projects related to data
+* Currently working on personal projects related to Data Analysis and Science 💻📈
  
 ## Welcome to my GITHUB PROFILE
 
