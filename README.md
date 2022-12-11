@@ -3,7 +3,7 @@
 
 * I enjoy long walks in nature 🌳
 * I like Software Engineering and Data Science
-* Currently trying to learn express js and Angular
+* Currently working personal projects related to data
  
 ## Welcome to my GITHUB PROFILE
 
