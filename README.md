@@ -1,5 +1,5 @@
 
-# Hi, They call me Joe 👋
+# Hi 👋
 
 * I enjoy long walks in nature 🌳
 * I like Software Engineering and Data Science
